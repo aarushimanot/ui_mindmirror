@@ -1,9 +1,9 @@
-# MoodJournal.AI design
+# loginpage_mindmirror
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/aarushimanots-projects/v0-mood-journal-ai-design)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/mMqxa7zMEXZ)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/aarushimanots-projects/v0-loginpage-mindmirror)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/b9H2ZJ3jviW)
 
 ## Overview
 
@@ -14,13 +14,13 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/aarushimanots-projects/v0-mood-journal-ai-design](https://vercel.com/aarushimanots-projects/v0-mood-journal-ai-design)**
+**[https://vercel.com/aarushimanots-projects/v0-loginpage-mindmirror](https://vercel.com/aarushimanots-projects/v0-loginpage-mindmirror)**
 
 ## Build your app
 
 Continue building your app on:
 
-**[https://v0.dev/chat/projects/mMqxa7zMEXZ](https://v0.dev/chat/projects/mMqxa7zMEXZ)**
+**[https://v0.dev/chat/projects/b9H2ZJ3jviW](https://v0.dev/chat/projects/b9H2ZJ3jviW)**
 
 ## How It Works
 
